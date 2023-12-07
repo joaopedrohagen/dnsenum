@@ -38,3 +38,7 @@ This script is provided for educational and security testing purposes only. Make
 
 ## Contributions
 Feel free to contribute improvements or corrections. Create an issue or submit a pull request.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6c27f0a (up: push project)
